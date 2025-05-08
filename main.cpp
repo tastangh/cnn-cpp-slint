@@ -1,7 +1,7 @@
-#include "ui/main_window.h"
+#include "main_window.h"
 
 int main() {
     auto window = MainWindow::create();
-    window->run();
+    window->run();  // pencereyi göster
     return 0;
 }
