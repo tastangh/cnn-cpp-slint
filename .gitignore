@@ -1,9 +1,6 @@
 /builda# Executables
 /bin
 
-# clangd cache
-/.cache
-
 # CMake residuals
 /build
 cmake_install.cmake
